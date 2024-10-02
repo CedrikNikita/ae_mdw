@@ -220,6 +220,7 @@ defmodule AeMdw.Db.RocksDbCF do
     record
   end
 
+  @spec stream(table(), Keyword.t()) :: Enumerable.t()
   def stream(table, opts \\ []) do
     potential_cursor =
       case Keyword.get(opts, :cursor, nil) do
