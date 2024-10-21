@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.90.1](https://www.github.com/aeternity/ae_mdw/compare/v1.90.0...v1.90.1) (2024-10-21)
+
+
+### Bug Fixes
+
+* transfers cursor deserialization ([#1982](https://www.github.com/aeternity/ae_mdw/issues/1982)) ([ab9b286](https://www.github.com/aeternity/ae_mdw/commit/ab9b286f8f19335a7a29d8463debbc1a4adce2e6))
+
 ## [1.90.0](https://www.github.com/aeternity/ae_mdw/compare/v1.89.0...v1.90.0) (2024-10-17)
 
 
